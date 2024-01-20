@@ -1,15 +1,12 @@
 Home
 ---
 
-# Rooftop Weather Station (Weather Guardian)
+# Rooftop Weather Station "Weather Guardian"
 
-## Embedded Systems Design Project II (2024 Spring) 
+## EGR 314: Embedded Systems Design Project II (Spring 2024) 
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
 
-## Team members name 
+## Team Members:
 
 * Jinuk Jeong
 * Ruryck Adame Butanda
